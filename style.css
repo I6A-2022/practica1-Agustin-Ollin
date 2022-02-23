@@ -1,0 +1,38 @@
+#juan {
+    color: brown;
+}
+
+.frank {
+    color: aqua;
+}
+
+body {
+    background-color: white;
+}
+
+.ultimo {
+    color: black;
+}
+
+li h2 {
+    color: green;
+}
+
+.css {
+    color: blue;
+}        
+
+ul p {
+    color: red;
+}
+
+table, th, td {
+    border: 2px dotted blueviolet;
+    border-collapse: collapse;
+}
+
+iframe {
+    padding: 50px 0;
+    width: 500px;
+    margin: auto;
+}
